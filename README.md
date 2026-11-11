@@ -1,0 +1,1 @@
+# TagRus Android starter\nOpen this folder in Android Studio, let Gradle sync, then choose Build > Build APK(s).\n\nThis is a starter app for saving/copying hashtags, not a completed Instagram client. Instagram does not provide an approved API for arbitrary recent hashtag feeds or commenting on other users' posts.\n
